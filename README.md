@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj P</h1>
 
 <h3 align="center">
-Computer Science Undergraduate • Full-Stack Developer • Software Engineering Enthusiast
+Computer Science Undergraduate • Web Developer • Software Engineering Enthusiast
 </h3>
 
 <p align="center">
