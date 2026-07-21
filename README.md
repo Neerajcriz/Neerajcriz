@@ -1,18 +1,39 @@
 <h1 align="center">Hi 👋, I'm Neeraj P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Web development**
+<h3 align="center">
+Computer Science Undergraduate • Full-Stack Developer • Software Engineering Enthusiast
+</h3>
 
-- 🌱 I’m currently learning **Java,Python,Web development**
-
-- 💬 Ask me about **html5, Css3**
-
-- 📫 How to reach me **neerajcriz@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/neeraj-p-7aa1923b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-p" height="30" width="40" /></a>
+<p align="center">
+Building secure, scalable, and user-friendly web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+- 🎓 B.Tech CSE @ Saintgits College of Engineering
+- 💻 Passionate about Full-Stack Development & Software Engineering
+- 🌱 Currently learning Data Structures & Algorithms, Java, and System Design
+- 🔭 Working on Full-Stack Projects using React, Next.js & FastAPI
+- 📫 Reach me at **neerajcriz@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,nextjs,fastapi,mongodb,supabase,html,css,git,vscode" />
+
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/neeraj-p-7aa1923b6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
